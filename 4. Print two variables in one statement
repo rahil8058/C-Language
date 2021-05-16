@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    int var1;
+    int var2;
+    var1=10;
+    var2=20;
+    printf("value of var1 is %d and value of var2 is %d",var1,var2);
+    return 0;
+}
